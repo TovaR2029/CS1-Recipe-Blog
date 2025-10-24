@@ -1,13 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bonbon&family=Fascinate+Inline&family=Italiana&family=Leckerli+One&family=Pinyon+Script&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 body {
     background: rgb(241, 203, 246);
 }
 p {
-    color: white;
+    color: darkred;
 }
 #straw-nut {
-    background: darkred;
+    background: white;
+    font-family:"Italiana", sans-serif;
+    font-size: 30px;
+    border: 10px, dotted, gray;
+    border-radius: 20px;
+    padding: 20px;
 }
 
 h1 {
-    color:darkred
+    color:rgb(209, 121, 177)
 }
+h3 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.red {
+    background-color: white;
+    color: darkred;
+    font-family: "Italiana", sans-serif;
+    font-size: 30px;
+    border: 10px, dotted, gray;
+    border-radius: 20px;
+    padding: 20px;
+}
+h2 {
+    font-family:"Bonbon", cursive;
+
+    color: white;
+}
+img {
+    border-radius: 12px;
+    border: 10px, double, darkred;
+}
+
