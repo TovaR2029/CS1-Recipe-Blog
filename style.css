@@ -3,40 +3,60 @@
 body {
     background: rgb(241, 203, 246);
 }
-p {
-    color: darkred;
-}
+
 #straw-nut {
-    background: white;
-    font-family:"Italiana", sans-serif;
+    background: darkred;
+    color:rgba(131, 95, 80, 0.941);
+    font-family:"Fascinate Inline", system-ui;
     font-size: 30px;
-    border: 10px, dotted, gray;
+    border: 10px, dotted, white;
     border-radius: 20px;
-    padding: 20px;
+    padding: 40px;
+    text-align: center;
 }
 
 h1 {
-    color:rgb(209, 121, 177)
+    color:rgb(209, 121, 177);
+    text-align: center;
+
 }
 h3 {
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:white;
 }
 .red {
-    background-color: white;
-    color: darkred;
-    font-family: "Italiana", sans-serif;
+    background-color: darkred;
+    color: rgba(131, 95, 80, 0.941);
+    font-family: "Fascinate Inline", system-ui;
     font-size: 30px;
-    border: 10px, dotted, gray;
+    border: 10px, dotted, white;
     border-radius: 20px;
-    padding: 20px;
+    padding: 40px;
+    text-align: center;
 }
 h2 {
-    font-family:"Bonbon", cursive;
-
+    font-family: "Leckerli One", cursive;
     color: white;
+    text-align: center;
 }
-img {
+#centered {
     border-radius: 12px;
     border: 10px, double, darkred;
+    text-align: center;
 }
+#centered-2 {
+    border-radius: 12px;
+    border: 10px, double, lightyellow;
+    text-align: center;
+}
+.yellow {
+    background: rgba(237, 185, 53, 0.657);
+    color: lightyellow;
+    font-family: "Fascinate Inline", system-ui;
+    font-size: 30px;
+    border: 10px, dotted, white;
+     border-radius: 20px;
+
+}
+
 
