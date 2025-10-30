@@ -18,6 +18,8 @@ body {
 h1 {
     color:rgb(209, 121, 177);
     text-align: center;
+    font-family: "Pinyon Script", cursive;
+
 
 }
 h3 {
@@ -56,7 +58,38 @@ h2 {
     font-size: 30px;
     border: 10px, dotted, white;
      border-radius: 20px;
+     padding: 40px;
+     text-align: center;
 
 }
+.ramen {
+    background: rgb(221, 146, 6);
+    color: rgb(253, 187, 113);
+    font-family: "Fascinate Inline", system-ui;
+    font-size: 30px;
+     border: 10px, dotted, white;
+     border-radius: 20px;
+     padding: 40px;
+     text-align: center;
 
+}
+#centered-3 {
+    border-radius: 12px;
+    border: 10px, double, rgb(253, 187, 113);
+    
+}
+.img-center {
+    text-align: center;
+    margin: auto;
+}
+a {
+    color:rgb(180, 99, 156);
+    text-decoration: double;
+    font-weight: bold;
+    background:linear-gradient(to top, hsl(297, 96%, 91%) 0%, rgb(220, 164, 216) 100%);
+    border-radius: 15px;
+    border: 2px dashed;
+    padding: 5px;
+    margin: 3px;
+}
 
