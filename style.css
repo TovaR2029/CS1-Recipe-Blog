@@ -25,6 +25,8 @@ h1 {
 h3 {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color:white;
+    text-shadow: 2px 2px 10px rgba(9, 1, 1, 0.946);
+    
 }
 .red {
     background-color: darkred;
@@ -129,3 +131,4 @@ hr {
     border: 5px, dashed, white;
 
 }
+
